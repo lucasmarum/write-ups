@@ -76,5 +76,4 @@ e com isso consegui logar como root e pegar a ultima flag
 
 ---
 
-> **Nota de segurança / ética:**
-> Este write-up é apenas para fins educacionais e deve ser aplicado somente em ambientes autorizados (laboratórios, máquinas do TryHackMe ou infraestrutura onde você tem permissão explícita). Realizar essas ações em sistemas alheios sem autorização é ilegal.
+
